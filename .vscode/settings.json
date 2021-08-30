@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.fontFamily": "Fira Code, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "diffEditor.codeLens": true,
+    "editor.minimap.showSlider": "always",
+    "files.simpleDialog.enable": true,
+    "workbench.list.smoothScrolling": true,
+    "workbench.colorTheme": "Dobri Next -C07- One",
+    "workbench.iconTheme": "material-icon-theme",
+    "better-comments.highlightPlainText": true,
+    "godot_tools.editor_path": "E:\\meitrix8208\\apps\\Godot"
+}
