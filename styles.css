@@ -69,7 +69,10 @@ input{
     background-position: 2px 2px;
     background-repeat:no-repeat;
     padding-left:   30px;
+	
 }
 p{
-    align-self: baseline;
+    direction:  rtl;
+	align-items:  baseline
+
 }
